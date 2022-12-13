@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-13T19:05:23 CEST" name="Suite" finished-at="2022-09-13T19:05:46 CEST" duration-ms="22317">
+    <groups>
+    </groups>
+    <test started-at="2022-09-13T19:05:23 CEST" name="Test" finished-at="2022-09-13T19:05:37 CEST" duration-ms="13184">
+      <class name="com.LiveProject.LiveProject.AddRemoveBasketTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.LiveProject.LiveProject.AddRemoveBasketTest@8458f04]" started-at="2022-09-13T19:05:24 CEST" name="setup" finished-at="2022-09-13T19:05:27 CEST" duration-ms="3336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addRemoveItem()[pri:0, instance:com.LiveProject.LiveProject.AddRemoveBasketTest@8458f04]" started-at="2022-09-13T19:05:27 CEST" name="addRemoveItem" finished-at="2022-09-13T19:05:37 CEST" duration-ms="9456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRemoveItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.LiveProject.LiveProject.AddRemoveBasketTest@8458f04]" started-at="2022-09-13T19:05:37 CEST" name="tearDown" finished-at="2022-09-13T19:05:37 CEST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.LiveProject.LiveProject.AddRemoveBasketTest -->
+    </test> <!-- Test -->
+    <test started-at="2022-09-13T19:05:23 CEST" name="Test2" finished-at="2022-09-13T19:05:46 CEST" duration-ms="22317">
+      <class name="com.LiveProject.LiveProject.OrderComplieteTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.LiveProject.LiveProject.OrderComplieteTest@3f4faf53]" started-at="2022-09-13T19:05:24 CEST" name="setup" finished-at="2022-09-13T19:05:27 CEST" duration-ms="3330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="endToEndTest()[pri:0, instance:com.LiveProject.LiveProject.OrderComplieteTest@3f4faf53]" started-at="2022-09-13T19:05:27 CEST" name="endToEndTest" finished-at="2022-09-13T19:05:46 CEST" duration-ms="18574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.LiveProject.LiveProject.OrderComplieteTest@3f4faf53]" started-at="2022-09-13T19:05:46 CEST" name="tearDown" finished-at="2022-09-13T19:05:46 CEST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.LiveProject.LiveProject.OrderComplieteTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
